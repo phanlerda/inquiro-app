@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!-- Chúng ta chỉ giữ lại item tĩnh.
+         Tất cả các item tài liệu sẽ được thêm vào menu này bằng code Java. -->
+    <group android:id="@+id/group_static" android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_upload_document"
+            android:icon="@android:drawable/ic_menu_upload"
+            android:title="@string/menu_upload" />
+    </group>
+
+</menu>

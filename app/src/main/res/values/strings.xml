@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Inquiro</string>
+
+    <!-- Main Activity & Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">My Documents</string>
+    <string name="nav_header_subtitle">Select a document to chat with</string>
+    <string name="menu_upload">Upload New Document</string>
+    <string name="menu_my_documents">My Documents</string>
+
+    <!-- Chat Screen -->
+    <string name="hint_type_a_message">Type a message...</string>
+
+</resources>
